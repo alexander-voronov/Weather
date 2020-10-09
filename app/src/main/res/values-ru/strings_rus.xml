@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">Погода</string>
-    <string name="city_name">Москва</string>
-    <string name="temperature">25</string>
-    <string name="add_info">Дополнительная информация</string>
-
-
-</resources>
