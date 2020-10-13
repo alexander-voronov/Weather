@@ -5,5 +5,5 @@
     <string name="add_info">Additional Information</string>
     <string name="button_1">Moscow</string>
     <string name="button_2">Kazan</string>
-    <string name="textview_1">setup screen</string>
+    <string name="textview_1">settings</string>
 </resources>
