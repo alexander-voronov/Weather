@@ -1,10 +1,8 @@
 <resources>
     <string name="app_name">Weather</string>
-    <string name="city_name">Moscow</string>
-    <string name="temperature">25</string>
-    <string name="add_info">Additional Information</string>
-    <string name="button_1">Moscow</string>
-    <string name="button_2">Kazan</string>
-    <string name="textview_1">settings</string>
-    <string name="button3">Button</string>
+    <string name="button_1">City selection</string>
+    <string name="textView_1"></string>
+    <string name="textView_2">Temperature</string>
+    <string name="button_2">Select</string>
+    <string name="textView_3"></string>
 </resources>
