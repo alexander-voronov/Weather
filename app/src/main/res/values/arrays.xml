@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities">
+        <item>Moscow</item>
+        <item>Paris</item>
+        <item>London</item>
+        <item>New-York</item>
+        <item>Tokyo</item>
+    </string-array>
+
+    <integer-array name="coatofarms_imgs">
+        <item>@drawable/moscow</item>
+        <item>@drawable/paris</item>
+        <item>@drawable/london</item>
+        <item>@drawable/newyork</item>
+        <item>@drawable/tokyo</item>
+    </integer-array>
+</resources>
