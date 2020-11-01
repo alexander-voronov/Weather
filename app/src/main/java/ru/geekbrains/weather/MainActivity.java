@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity implements Constants {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Button startSecondActivity = findViewById(R.id.button_1);
+        /*Button startSecondActivity = findViewById(R.id.button_1);
         startSecondActivity.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -34,10 +34,10 @@ public class MainActivity extends AppCompatActivity implements Constants {
                 startActivityForResult(intent, REQUEST_CODE);
 
             }
-        });
+        });*/
     }
 
-    @Override
+    /*@Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         if (requestCode != REQUEST_CODE) {
         super.onActivityResult(requestCode, resultCode, data);
@@ -46,5 +46,5 @@ public class MainActivity extends AppCompatActivity implements Constants {
         if (resultCode == RESULT_OK){
             EditText num = findViewById(R.id.textView_3);
         }
-    }
+    }*/
 }
